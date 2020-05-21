@@ -1,0 +1,9 @@
+acme_dns/*.ini
+config.ini
+!acme_dns/.example.ini
+test*.*
+.idea/
+logs/
+work/
+workdir/
+

@@ -1,0 +1,5 @@
+# copy this file to config.ini and set your values
+# IS_TEST=false to issue valid certificates
+IS_TEST=true
+BASE_DOMAIN=example.com
+ACCT_EMAIL=tzkmx@example.com
